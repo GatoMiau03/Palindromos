@@ -1,9 +1,10 @@
 
-A continuacion se puede ver que Diego se hizo cargo de la creacion del nuevo codigo para verificar si una palabra es un palindromo y Carlos se encargo de realizar las pruebas unitarias de este mismo. 
+A continuacion se puede ver que Diego se hizo cargo de la creacion del nuevo codigo para verificar si una palabra es un palindromo y Carlos se encargo de realizar las pruebas unitarias de este mismo.   
+![image](https://github.com/GatoMiau03/Palindromos/assets/142507343/a0f686c8-c7eb-4c4b-9525-e86e6bdc0480)
 ![WhatsApp Image 2024-04-10 at 20 28 58](https://github.com/GatoMiau03/Palindromos/assets/163133151/86ac839d-a81f-4bf1-a52a-fcc7aa607d6f)  
 
 ¿Qué consideraciones tomaron en cuenta?  
-a partir del codigo inicial tomamos en cuenta los parametros de entrada que podía escoger el usuario, como algo incorrecto para que de esta manera podamos fabricar un buen programa con un margen error reducido.
+A partir del codigo inicial tomamos en cuenta los parametros de entrada que podía escoger el usuario, como algo incorrecto para que de esta manera podamos fabricar un buen programa con un margen error reducido.
 
 ¿Qué mejoró en su método?  
 Inicialmente nos concentramos en hacer un codigo sin errores al ejecutarse, por lo que hicimos un programa con 6 metodos para cumplir esta tarea y no se mejoro posteriormente.
